@@ -1,9 +1,6 @@
 ## "Kota-Website" 🍔
 
-*The Event Management System (EMS) is a Java GUI application created to simplify the 
-organisation and management of events. It offers features for planning events, registering 
-attendees, managing venues, and coordinating vendors. The system is linked to a MySQL 
-database for storing event-related data*
+*This website is a HTML-CSS project created to display food items of the menu of Zack's Kitchen. This project was created as part of my frontend web development practice*
 
 ##  Features 🍔
 - Menu section to display food items
@@ -13,5 +10,5 @@ database for storing event-related data*
 - CSS3
 
  ##  Demo  🍔
- ![Demo]
+ ![Demo](https://github.com/528hloni/Kota-Website/blob/main/Demo/Demo%20vid.gif)
   
